@@ -5,9 +5,7 @@ Untuk download foto silahkan klik disini <a href="https://zee.gl/BOj8">Download 
 Silahkan taruh file sample foto kedalam folder dataset didalam folder script.
 
 # Struktur File
-- dataset
-  - with mask
-  - without_mask
+<img src="https://github.com/fajarlabs/FaceMaskTrainingData/blob/master/Structure.PNG?raw=true" /><br />
 
 # Cara Training Data
 Cara menjalankan script pythonnya seperti berikut ini : <br />
