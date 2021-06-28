@@ -1,5 +1,13 @@
 # Download Sample Foto
-Untuk download foto silahkan klik disini <a href="https://zee.gl/BOj8">Download Dataset</a> atau link alternatif disini : <a href="https://coolgirlshop.xyz/BOj8">Download Dataset</><br />
+Untuk download foto silahkan klik disini <a href="https://zee.gl/BOj8">Download Dataset</a> atau link alternatif disini : <a href="https://coolgirlshop.xyz/BOj8">Download Dataset</a><br />
+
+# Ekstrak File
+Silahkan taruh file sample foto kedalam folder dataset didalam folder script.
+
+# Struktur File
+- dataset
+  - with mask
+  - without_mask
 
 # Cara Training Data
 Cara menjalankan script pythonnya seperti berikut ini : <br />
