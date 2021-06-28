@@ -1,3 +1,6 @@
+# Download Sample Foto
+Untuk download foto silahkan klik disini <a href="https://zee.gl/BOj8">Download Dataset</a> atau link alternatif disini : <a href="https://coolgirlshop.xyz/BOj8">Download Dataset</><br />
+
 # Cara Training Data
 Cara menjalankan script pythonnya seperti berikut ini : <br />
 ````` python train_mask_detector.py --dataset dataset ````` <br />
