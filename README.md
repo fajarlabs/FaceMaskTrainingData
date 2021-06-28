@@ -27,4 +27,6 @@ Silahkan taruh file sample foto kedalam folder dataset didalam folder script.
 Cara menjalankan script pythonnya seperti berikut ini : <br />
 ````` python train_mask_detector.py --dataset dataset ````` <br />
 
+Tunggu sampai proses training selesai, nanti otomatis akan menghasil file <b>mask_detector.model</b> di folder tersebut.<br />
+
 <a href="https://ibb.co/yXRpMM1"><img src="https://i.ibb.co/TkT1nnS/cmd.png" alt="cmd" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>cd original</a><br />
